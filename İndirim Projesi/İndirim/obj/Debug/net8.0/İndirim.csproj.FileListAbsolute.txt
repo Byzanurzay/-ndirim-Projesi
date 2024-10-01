@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\İndirim Projesi\İndirim\bin\Debug\net8.0\İndirim.exe
+C:\Users\User\Desktop\İndirim Projesi\İndirim\bin\Debug\net8.0\İndirim.deps.json
+C:\Users\User\Desktop\İndirim Projesi\İndirim\bin\Debug\net8.0\İndirim.runtimeconfig.json
+C:\Users\User\Desktop\İndirim Projesi\İndirim\bin\Debug\net8.0\İndirim.dll
+C:\Users\User\Desktop\İndirim Projesi\İndirim\bin\Debug\net8.0\İndirim.pdb
+C:\Users\User\Desktop\İndirim Projesi\İndirim\obj\Debug\net8.0\İndirim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\İndirim Projesi\İndirim\obj\Debug\net8.0\İndirim.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\İndirim Projesi\İndirim\obj\Debug\net8.0\İndirim.AssemblyInfo.cs
+C:\Users\User\Desktop\İndirim Projesi\İndirim\obj\Debug\net8.0\İndirim.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\İndirim Projesi\İndirim\obj\Debug\net8.0\İndirim.dll
+C:\Users\User\Desktop\İndirim Projesi\İndirim\obj\Debug\net8.0\refint\İndirim.dll
+C:\Users\User\Desktop\İndirim Projesi\İndirim\obj\Debug\net8.0\İndirim.pdb
+C:\Users\User\Desktop\İndirim Projesi\İndirim\obj\Debug\net8.0\İndirim.genruntimeconfig.cache
+C:\Users\User\Desktop\İndirim Projesi\İndirim\obj\Debug\net8.0\ref\İndirim.dll

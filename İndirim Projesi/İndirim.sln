@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "İndirim", "İndirim\İndirim.csproj", "{B144176A-5A5F-45D8-ADB6-38BA80AEE4BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B144176A-5A5F-45D8-ADB6-38BA80AEE4BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B144176A-5A5F-45D8-ADB6-38BA80AEE4BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B144176A-5A5F-45D8-ADB6-38BA80AEE4BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B144176A-5A5F-45D8-ADB6-38BA80AEE4BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
